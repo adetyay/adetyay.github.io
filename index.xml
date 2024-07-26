@@ -6,7 +6,28 @@
     <description>Recent content on october</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 08:31:03 +0530</lastBuildDate>
     <atom:link href="https://adityax4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://adityax4.github.io/blog/first/</link>
+      <pubDate>Fri, 26 Jul 2024 08:31:03 +0530</pubDate>
+      <guid>https://adityax4.github.io/blog/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Post</title>
+      <link>https://adityax4.github.io/projects/post/</link>
+      <pubDate>Fri, 26 Jul 2024 08:27:13 +0530</pubDate>
+      <guid>https://adityax4.github.io/projects/post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>My  Post</title>
+      <link>https://adityax4.github.io/updates/my--post/</link>
+      <pubDate>Fri, 26 Jul 2024 08:26:26 +0530</pubDate>
+      <guid>https://adityax4.github.io/updates/my--post/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
