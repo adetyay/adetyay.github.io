@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>october</title>
-    <link>https://adityax4.github.io/</link>
+    <link>https://adetyay.github.io/</link>
     <description>Recent content on october</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jul 2024 16:05:31 +0530</lastBuildDate>
-    <atom:link href="https://adityax4.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adetyay.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hello internet</title>
-      <link>https://adityax4.github.io/blog/hello-internet/</link>
+      <link>https://adetyay.github.io/blog/hello-internet/</link>
       <pubDate>Fri, 26 Jul 2024 16:05:31 +0530</pubDate>
-      <guid>https://adityax4.github.io/blog/hello-internet/</guid>
+      <guid>https://adetyay.github.io/blog/hello-internet/</guid>
       <description>hey there! i’m aditya, 21, from india. i’m the guy who sees magic in every line of code and beauty in every pixel.&#xA;let’s get this out of the way - i used to be a total nerd in school. now i’m just… a different kind of nerd. these days, i spend a fair bit of time tinkering with code and dreaming up cool project ideas. but don’t worry, i won’t bore you with tech talk.</description>
     </item>
     <item>
       <title>Post</title>
-      <link>https://adityax4.github.io/projects/post/</link>
+      <link>https://adetyay.github.io/projects/post/</link>
       <pubDate>Fri, 26 Jul 2024 08:27:13 +0530</pubDate>
-      <guid>https://adityax4.github.io/projects/post/</guid>
+      <guid>https://adetyay.github.io/projects/post/</guid>
       <description></description>
     </item>
     <item>
       <title>Post</title>
-      <link>https://adityax4.github.io/updates/post/</link>
+      <link>https://adetyay.github.io/updates/post/</link>
       <pubDate>Fri, 26 Jul 2024 08:26:26 +0530</pubDate>
-      <guid>https://adityax4.github.io/updates/post/</guid>
+      <guid>https://adetyay.github.io/updates/post/</guid>
       <description></description>
     </item>
   </channel>

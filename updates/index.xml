@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>updates on october</title>
-    <link>https://adityax4.github.io/updates/</link>
+    <link>https://adetyay.github.io/updates/</link>
     <description>Recent content in updates on october</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 26 Jul 2024 08:26:26 +0530</lastBuildDate>
-    <atom:link href="https://adityax4.github.io/updates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://adetyay.github.io/updates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Post</title>
-      <link>https://adityax4.github.io/updates/post/</link>
+      <link>https://adetyay.github.io/updates/post/</link>
       <pubDate>Fri, 26 Jul 2024 08:26:26 +0530</pubDate>
-      <guid>https://adityax4.github.io/updates/post/</guid>
+      <guid>https://adetyay.github.io/updates/post/</guid>
       <description></description>
     </item>
   </channel>
