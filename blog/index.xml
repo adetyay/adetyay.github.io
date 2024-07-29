@@ -6,8 +6,15 @@
     <description>Recent content in blog on october</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Jul 2024 08:15:47 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 09:46:18 +0530</lastBuildDate>
     <atom:link href="https://adetyay.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Linux</title>
+      <link>https://adetyay.github.io/blog/test-linux/</link>
+      <pubDate>Mon, 29 Jul 2024 09:46:18 +0530</pubDate>
+      <guid>https://adetyay.github.io/blog/test-linux/</guid>
+      <description>Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!</description>
+    </item>
     <item>
       <title>Test</title>
       <link>https://adetyay.github.io/blog/test/</link>
